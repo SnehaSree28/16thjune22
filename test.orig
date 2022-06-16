@@ -4,5 +4,8 @@ gg
 stash
 sec merge
 thr merge
+<<<<<<< HEAD
 five
+=======
 four merge
+>>>>>>> 0045ead5a9d3e90ccce1215c99bcb4d23198e657
